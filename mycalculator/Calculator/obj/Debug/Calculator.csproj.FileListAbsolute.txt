@@ -1,0 +1,9 @@
+C:\GrapeCity\mycalculatorrea,\mycalculator\Calculator\bin\Debug\Calculator.exe.config
+C:\GrapeCity\mycalculatorrea,\mycalculator\Calculator\bin\Debug\Calculator.exe
+C:\GrapeCity\mycalculatorrea,\mycalculator\Calculator\bin\Debug\Calculator.pdb
+C:\GrapeCity\mycalculatorrea,\mycalculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+C:\GrapeCity\mycalculatorrea,\mycalculator\Calculator\obj\Debug\Calculator.Form1.resources
+C:\GrapeCity\mycalculatorrea,\mycalculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\GrapeCity\mycalculatorrea,\mycalculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+C:\GrapeCity\mycalculatorrea,\mycalculator\Calculator\obj\Debug\Calculator.exe
+C:\GrapeCity\mycalculatorrea,\mycalculator\Calculator\obj\Debug\Calculator.pdb
